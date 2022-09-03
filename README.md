@@ -1,10 +1,4 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Madakto
-- 🌱 I’m currently learning .Net
-- 📫 How to reach me: mrahmat1386@gmail.com
-
-<h1 align="center">Hi there, I'm Moein Raiesy</h1>
+<h1 align="center">Hi there, I'm Moein Raiesy  👋</h1>
 
 <p align="center"> 
  <a href="https://github.com/Torabi-srh" alt="soroush torabi's github stats">
