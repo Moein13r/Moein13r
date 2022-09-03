@@ -1,13 +1,10 @@
 ### Hi there 👋
-
-<!--
-**Moein13r/Moein13r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Madakto
 - 🌱 I’m currently learning .Net
 - 📫 How to reach me: mrahmat1386@gmail.com
+
 <h1 align="center">Hi there, I'm Moein Raiesy</h1>
 
 <p align="center"> 
