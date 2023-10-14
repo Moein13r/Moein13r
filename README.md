@@ -13,8 +13,10 @@
 </p>
 
 <p align="center">
-
-     <a href="https://dotnet.microsoft.com/">
+   <a href="https://dotnet.microsoft.com/">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" style="vertical-align:top; margin:4px;height:32px;">
+  </a>  
+  <a href="https://dotnet.microsoft.com/">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="dotnet" style="vertical-align:top; margin:4px;height:32px;">
   </a>
   <a href="https://hub.docker.com/">
