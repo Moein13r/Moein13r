@@ -16,18 +16,7 @@
    <a href="https://dotnet.microsoft.com/">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" style="vertical-align:top; margin:4px;height:32px;">
   </a>  
-   <a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="dotnet" style="vertical-align:top; margin:4px;height:32px;">
-  </a>
-  <a href="https://hub.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="vertical-align:top; margin:4px;height:32px;">
- </a>
-   <a href="https://www.rabbitmq.com">
-    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq" style="vertical-align:top; margin:4px;height:32px;">
-  </a>
-  <a href="https://microsoft.com">
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql" style="vertical-align:top; margin:4px;height:32px;">
-  </a>
+
   
   <br/>
 </p>
