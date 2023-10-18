@@ -1,5 +1,5 @@
 <article class="markdown-body entry-content container-lg" itemprop="text">
-<p align="center">In The Name Of God</p>
+<p align="center">In The Name Of Allah</p>
 	 <h2 tabindex="-1" id="user-content-hey-there--im-pavan" dir="auto">
 	 	 <a class="heading-link" href="#hey-there--im-pavan">Hey there , I'm </a>
 	 <a href="https://github.com/Moein13r">Moein Raeisy !</a>
