@@ -43,9 +43,9 @@
     <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq" style="vertical-align:top; margin:4px;height:32px;">
   </a>
   <a href="https://microsoft.com">
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql" style="vertical-align:top; margin:4px;height:32px;">
-	  <span style="color:red;">Microservice </span>		
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql" style="vertical-align:top; margin:4px;height:32px;">	  
   </a>
+	<span style="color:red;">Microservice </span>		
   <br/>
 </p>
 </article>
