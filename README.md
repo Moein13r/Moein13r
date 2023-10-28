@@ -45,7 +45,7 @@
   <a href="https://microsoft.com">
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql" style="vertical-align:top; margin:4px;height:32px;">	  
   </a>
-	<span style="color:red;">Microservice </span>		
+  # `microservices` <img src="https://raw.githubusercontent.com/tidylab/microservices/master/pkgdown/logo.png" align="right" style="float:right; height:75px"/>
   <br/>
 </p>
 </article>
